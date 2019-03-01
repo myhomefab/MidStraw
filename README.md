@@ -1,4 +1,4 @@
 # MidStraw
-Strawberry Pyramid Planters (wood plans)
+Plans de construction en bois de jardinières en pyramide et d'autres formes pour fraisiers et plantes diverses.
 
-CC-BY-SA-4.0
+Licence CC-BY-SA-4.0
